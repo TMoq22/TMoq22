@@ -1,16 +1,27 @@
-## Hi there 👋
+## Titouan MOQUET
 
-<!--
-**TMoq22/TMoq22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Etudiant en Informatique à Lannion**
 
-Here are some ideas to get you started:
+## Langages & Technologies
+### Web
+<p>
+<img src="https://skillicons.dev/icons?i=js,css,html,php,figma"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programmation
+<img src="https://skillicons.dev/icons?i=c,java,python,"/>
+
+### Base de données
+<img src="https://skillicons.dev/icons?i=sqlite,postgresql"/>
+
+### Système / Outils
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vscode,windows"/>
+
+### Autre 
+<img src="https://skillicons.dev/icons?i=blender,unreal"/>
+
+
+## Mon portfolio
+___Arrive bientôt___
+
+## Me contacter
+[titouanmoquet@gmail.com](mailto:titouanmoquet@gmail.com)
