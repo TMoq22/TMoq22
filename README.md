@@ -22,7 +22,8 @@
 
 ## Mon portfolio
 
-[titouanmoquet.onrender.com](titouanmoquet.onrender.com) ___La version final sur l'adresse titouanmoquet.fr arrive bientôt !___
+[titouanmoquet.fr](titouanmoquet.fr)
 
 ## Me contacter
-[titouanmoquet@gmail.com](mailto:titouanmoquet@gmail.com)
+
+[contact@titouanmoquet.fr](mailto:contact@titouanmoquet.fr)
