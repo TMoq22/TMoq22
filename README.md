@@ -11,7 +11,7 @@ Je suis également passionné par le design d'interface utilisateur assaillante.
 ## Langages & Technologies
 ### Web
 
-<img src="https://skillicons.dev/icons?i=js,css,html,php,figma"/>
+<img src="https://skillicons.dev/icons?i=js,css,html,php,figma,bootstrap"/>
 
 ### Programmation
 <img src="https://skillicons.dev/icons?i=c,java,python,"/>
