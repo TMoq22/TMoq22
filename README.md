@@ -30,7 +30,7 @@ Je suis également passionné par le design d'interface utilisateur assaillante.
 
 ### Autre 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blender,unreal,json,caddy,apache)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blender,unreal,json,caddy,apache), OVH Cloud
 
 
 ## Me contacter
