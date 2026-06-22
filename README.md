@@ -11,7 +11,9 @@ Je suis également passionné par le design d'interface utilisateur assaillante.
 ## Langages & Technologies
 ### Web
 
-<img src="https://skillicons.dev/icons?i=js,css,html,php,figma,bootstrap"/>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,php,flask,bootstap)
+
 
 ### Programmation
 <img src="https://skillicons.dev/icons?i=c,java,python,"/>
@@ -19,12 +21,21 @@ Je suis également passionné par le design d'interface utilisateur assaillante.
 ### Base de données
 <img src="https://skillicons.dev/icons?i=sqlite,postgresql"/>
 
-### Système / Outils
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,vscode,windows"/>
+### Outils
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,github,docker,figma,canva)
+
+### Systèmes
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,fedora,vmwareworkstation)
 
 ### Autre 
-<img src="https://skillicons.dev/icons?i=blender,unreal"/>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=blender,unreal,json,caddy,apache)
+
 
 ## Me contacter
 
 [contact@titouanmoquet.fr](mailto:contact@titouanmoquet.fr)
+
+## Ce que je veux apprendre : 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=django,sass,tailwindcss,vuejs,symfony,react,redis,typescript,rust)
